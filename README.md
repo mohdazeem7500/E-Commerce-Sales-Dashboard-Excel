@@ -59,3 +59,7 @@ E-Commerce-Sales-Dashboard-Excel/
 ├── 📊 E-Commerce_Sales_Dashboard.xlsx
 │
 └── 📄 README.md
+## 👨‍💻 Author
+**Mohd Azeem**
+
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
