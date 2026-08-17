@@ -1,46 +1,61 @@
-# E-Commerce Sales Dashboard – Excel
+# 📊 E-Commerce Sales Dashboard – Excel
 
-## 📊 Project Overview
+## 📌 Project Overview
+
 This project is an E-Commerce Sales Dashboard created using Microsoft Excel.
 
-The dashboard provides insights into sales, profit, quantity, categories, products, stores, and cities.
+The dashboard helps analyze sales performance, profit, quantity sold, products, categories, cities, and monthly sales trends through interactive visualizations.
 
-## 🎯 Objectives
+## 🎯 Project Objectives
+
 - Analyze overall sales performance
-- Track total profit and quantity sold
-- Identify top-performing products and categories
-- Analyze sales by city and store
-- Understand sales trends
-- Create interactive and easy-to-understand visualizations
+- Track total sales and profit
+- Analyze quantity sold
+- Identify top-performing products
+- Compare sales across categories
+- Analyze sales by city
+- Understand monthly sales trends
+- Create an interactive and easy-to-understand dashboard
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Skills Used
+
 - Microsoft Excel
+- Data Cleaning
+- Excel Formulas
 - Pivot Tables
 - Pivot Charts
-- Excel Formulas
-- Data Cleaning
-- Data Visualization
 - Slicers
+- Data Visualization
+- Dashboard Design
 
-## 📌 Key Features
-- Total Sales
-- Total Profit
-- Total Quantity Sold
-- Sales by Category
-- Sales by City
-- Sales by Product
-- Monthly Sales Trend
-- Interactive Dashboard
+## 📊 Dashboard Features
 
-## 📷 Dashboard Preview
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Quantity Sold
+- 🛍️ Sales by Category
+- 🏙️ Sales by City
+- 🏪 Sales by Store
+- 📦 Sales by Product
+- 📅 Monthly Sales Trend
+- 🎛️ Interactive Slicers
 
-![E-Commerce Sales Dashboard](image/E-Commerce_Sales_Dashboard.png)
+## 🖼️ Dashboard Preview
 
-## 📁 Files
-- `E-Commerce_Sales_Dashboard.xlsx` – Main Excel dashboard
-- `image/` – Dashboard screenshots and project images
+![E-Commerce Sales Dashboard](./image/E-Commerce_Sales_Dashboard.png)
 
-## 👨‍💻 Author
-**Mohd Azeem**
+## 📥 Project File
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+[⬇️ Download E-Commerce Sales Dashboard Excel File](./E-Commerce_Sales_Dashboard.xlsx)
+
+## 📁 Repository Structure
+
+```text
+E-Commerce-Sales-Dashboard-Excel/
+│
+├── 📁 image/
+│   └── E-Commerce_Sales_Dashboard.png
+│
+├── 📊 E-Commerce_Sales_Dashboard.xlsx
+│
+└── 📄 README.md
