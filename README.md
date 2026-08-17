@@ -4,7 +4,7 @@
 
 This project is an E-Commerce Sales Dashboard created using Microsoft Excel.
 
-The dashboard helps analyze sales performance, profit, quantity sold, products, categories, cities, and monthly sales trends through interactive visualizations.
+The dashboard helps analyze sales performance, profit, quantity sold, products, categories, cities, stores, and monthly sales trends through interactive visualizations.
 
 ## 🎯 Project Objectives
 
@@ -13,7 +13,7 @@ The dashboard helps analyze sales performance, profit, quantity sold, products, 
 - Analyze quantity sold
 - Identify top-performing products
 - Compare sales across categories
-- Analyze sales by city
+- Analyze sales by city and store
 - Understand monthly sales trends
 - Create an interactive and easy-to-understand dashboard
 
@@ -50,16 +50,26 @@ The dashboard helps analyze sales performance, profit, quantity sold, products, 
 
 ## 📁 Repository Structure
 
-```text
 E-Commerce-Sales-Dashboard-Excel/
-│
-├── 📁 image/
-│   └── E-Commerce_Sales_Dashboard.png
-│
-├── 📊 E-Commerce_Sales_Dashboard.xlsx
-│
-└── 📄 README.md
-## 👨‍💻 Author
-**Mohd Azeem**
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+├── 📁 image/
+
+│   └── E-Commerce_Sales_Dashboard.png
+
+├── 📊 E-Commerce_Sales_Dashboard.xlsx
+
+└── 📄 README.md
+
+
+## 👨‍💻 Author
+
+### Mohd Azeem
+
+**Aspiring Data Analyst**
+
+**Skills:** Excel | SQL | Power BI | Python
+
+
+---
+
+⭐ **Thank you for visiting this project!**
